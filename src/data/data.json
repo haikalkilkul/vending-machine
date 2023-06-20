@@ -1,0 +1,14 @@
+[
+  { "name": "Pocari Sweat", "price": 5500, "image": "../image/pocari.png" },
+  { "name": "Coca Cola", "price": 6000, "image": "../image/cola.png" },
+  { "name": "Pepsi", "price": 7000, "image": "../image/pepsi.png" },
+  { "name": "Pocky", "price": 30000, "image": "../image/pocky.png" },
+  { "name": "Kitkat", "price": 15000, "image": "../image/kitkat.png" },
+  { "name": "Snickers", "price": 7000, "image": "../image/snickers.png" },
+  { "name": "Aqua", "price": 4000, "image": "../image/aqua.png" },
+  { "name": "YOU C1000", "price": 8000, "image": "../image/uc1000.png" },
+  { "name": "Lays", "price": 23000, "image": "../image/lays.png" },
+  { "name": "Kusuka", "price": 16500, "image": "../image/kusuka.png" },
+  { "name": "Kinderjoy", "price": 18500, "image": "../image/kinderjoy.png" },
+  { "name": "Big Babol", "price": 6000, "image": "../image/bigbabol.png" }
+]
